@@ -27,14 +27,6 @@ Ao final do quiz, o jogador é redirecionado para o site informacional que compl
 
 ---
 
-## 🖼️ Screenshots
-
-| Questão com timer | A questão da maçã | Tela de vitória |
-|:-:|:-:|:-:|
-| ![Questão](screenshots/question.png) | ![Maçã](screenshots/apple.png) | ![Vitória](screenshots/win.png) |
-
----
-
 ## 🎮 Como funciona
 
 O quiz tem **6 questões** sobre Isaac Newton, servidas por uma API REST em Flask. O jogador tem **15 segundos** por questão — ao acertar, o timer reinicia para a próxima.
